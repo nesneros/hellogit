@@ -1,2 +1,2 @@
-echo "HELLO, EVERYONE"
+echo "HELLO, UNIVERSE"
 
